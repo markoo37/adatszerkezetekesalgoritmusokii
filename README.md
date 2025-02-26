@@ -1,2 +1,1 @@
-# adatszerkezetekesalgoritmusokii
-Adatszerkezetek és algoritmusok II. feladatok
+# Adatszerkezetek és algoritmusok II. feladatok
